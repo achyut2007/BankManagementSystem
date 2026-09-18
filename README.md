@@ -71,15 +71,3 @@ automatically reload it on the next run.
 4. Choose **4 (Transfer)** to move funds between two accounts and confirm both balances update.
 5. Choose **6 (View Transaction History)** to confirm every operation was logged.
 6. Choose **8 (Save & Exit)**, then relaunch the app — your accounts and balances should still be there.
-
-A detailed manual test log (8 scenarios covering both success and failure paths) is included in
-the project report (`Bank_Simulator_Project_Report.pdf`).
-
-## Screenshots
-
-See the **Screenshots / Results** section of the project report for full console output,
-including account creation, transfers, transaction history, and exception handling in action.
-
-## Author
-
-Built as a course project (VITyarthi — Build Your Own Project).
